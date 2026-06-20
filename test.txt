@@ -1,2 +1,3 @@
 test.txt create ki
 simple text
+try to learn
